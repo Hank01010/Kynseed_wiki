@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """Kynseed.ipynb
 
-# Files that need to be uploaded:
-
-
+# Files needed:
 *   AllItems.txt
 *   EAItems.txt
 *   ItemRatingConditions.xml
