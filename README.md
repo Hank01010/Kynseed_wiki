@@ -1,4 +1,4 @@
-# Kynseed_wiki
+# Kynseed_wikinator
 
 First place the kynseed.py file in the Kynseed/Data folder, or copy the following files from the Data directory to the folder containing kynseed.py:
 
